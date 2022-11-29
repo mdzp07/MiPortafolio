@@ -53,7 +53,7 @@ footer h6{
 }
 
 .fotoperfil {
-    background-image: url(/assets/img/bg-profile.jpg);
+    background-image: url(..assets/img/bg-profile.jpg);
     width: 80%;
     margin:auto;
     margin-top: 4rem;
